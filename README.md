@@ -1,7 +1,5 @@
 # Notion Rich Presence in Discord
 
-#discord-rpc #notion
-
 This is going to create a rich presence in discord for when you're editing your pages in notion.
 
 ## Requirements
