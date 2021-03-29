@@ -161,4 +161,7 @@ dist/
 tmp/
 temp/
 
+# Bat files
+.bat
+
 # End of https://www.toptal.com/developers/gitignore/api/node
