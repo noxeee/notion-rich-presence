@@ -1,0 +1,11 @@
+:: Navigate to the folder where your index script is saved if you aren't there already
+:: Then start the JS script
+cd C:\path\to\notion-rich-presence\
+start node .\index.js
+
+:: Now navigate to the folder where your Notion executable is located
+:: Replace "your_username" with your Windows username 
+:: or replace the whole path with the correct path for your Notion executable
+:: start Notion
+cd C:\Users\"your_username"\AppData\Local\Programs\Notion
+start Notion
