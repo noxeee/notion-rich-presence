@@ -1,2 +1,2 @@
-notion-app start
 node index.js &
+notion-app start >/dev/null
