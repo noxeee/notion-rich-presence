@@ -30,7 +30,8 @@ First do step one from [#Manually](Manually).
 
 If everything went well you will get some notion-related 
 
-# Todos
-[ ] Make the rpc start automatically with notion
-[ ] Make it a notion enhancer feature
+## Todos
+
+- [ ] Make the rpc start automatically with notion
+- [ ] Make it a notion enhancer feature
 
